@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+.img {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.img img {
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+}
+
+.message {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.message h1 {
+    color: #e50914;
+    font-size: 2em;
+}
+
+.message h3 {
+    color: bisque;
+    font-size: 1.2em;
+}
